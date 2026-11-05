@@ -68,3 +68,9 @@ This project was created to practice frontend development with React, including 
 Created by [LeahLogic](https://github.com/LeahLogic).
 
 Frontend Development Portfolio Project.
+
+## 🌐 Live Demo
+
+Explore the live application:
+
+[Bloom & Grow — Live Website](https://my-bloom-and-grow.netlify.app/)
